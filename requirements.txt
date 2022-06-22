@@ -1,4 +1,4 @@
-numpy==1.19.4
+numpy==1.22.0
 keyring==22.3.0
 selenium==4.0.0a1
 backports.statistics==0.1.0
